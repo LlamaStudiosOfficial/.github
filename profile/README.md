@@ -5,4 +5,4 @@ We're **Llama Studios** and we love to make random projects for the community an
 
 We have a [itch.io](https://llama-game-studio.itch.io "itch.io") page for our games and we mostly post our software on github. Everything else is on our [website](https://lgs.framer.website "website")
 
-Fun fact: You probely guessed this but we love llamas!
+**Fun fact:** You probely guessed this but we love llamas!
