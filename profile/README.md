@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Who are we?
+We're **Llama Studios** and we love to make random projects for the community and occasionally make full apps or games.
+
+We have a [itch.io](llama-game-studio.itch.io) page for our games and we mostly post our software on github. Everything else is on our [website](lgs.framer.website)
+
+Fun fact: You 
 <!--
 
 **Here are some ideas to get you started:**
